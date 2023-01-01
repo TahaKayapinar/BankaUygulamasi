@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BABanka_Numarator/1.0.0": {
+        "runtime": {
+          "BABanka_Numarator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BABanka_Numarator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

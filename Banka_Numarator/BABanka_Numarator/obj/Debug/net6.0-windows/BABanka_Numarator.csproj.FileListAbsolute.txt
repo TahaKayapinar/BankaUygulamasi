@@ -1,0 +1,17 @@
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\bin\Debug\net6.0-windows\BABanka_Numarator.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\bin\Debug\net6.0-windows\BABanka_Numarator.deps.json
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\bin\Debug\net6.0-windows\BABanka_Numarator.runtimeconfig.json
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\bin\Debug\net6.0-windows\BABanka_Numarator.dll
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\bin\Debug\net6.0-windows\BABanka_Numarator.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.dll
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\refint\BABanka_Numarator.dll
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\BABanka_Numarator.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\BABanka_Numarator\BABanka_Numarator\obj\Debug\net6.0-windows\ref\BABanka_Numarator.dll
